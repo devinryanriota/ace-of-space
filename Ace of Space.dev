@@ -1,0 +1,122 @@
+[Project]
+FileName=Ace of Space.dev
+Name=Ace of Space
+Type=0
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=-lmingw32_@@_-lSDLmain_@@_-lSDL_@@_-lSDL_ttf_@@_-lSDL_mixer_@@_-lSDL_image_@@_
+IsCpp=1
+Icon=
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=Ace of Space.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=0
+SupportXPThemes=0
+CompilerSet=3
+CompilerSettings=0000000100000000000000000
+UnitCount=7
+
+[VersionInfo]
+Major=1
+Minor=0
+Release=0
+Build=0
+LanguageID=1033
+CharsetID=1252
+CompanyName=
+FileVersion=1.0.0.0
+FileDescription=Developed using the Dev-C++ IDE
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=main.cpp
+CompileCpp=1
+Folder=Ace of Space
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit2]
+FileName=addons.h
+CompileCpp=1
+Folder=Ace of Space
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit3]
+FileName=character.h
+CompileCpp=1
+Folder=Ace of Space
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit5]
+FileName=enemy.h
+CompileCpp=1
+Folder=Ace of Space
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit6]
+FileName=bullets.h
+CompileCpp=1
+Folder=Ace of Space
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit7]
+FileName=boss.h
+CompileCpp=1
+Folder=Ace of Space
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit4]
+FileName=game.h
+CompileCpp=1
+Folder=Ace of Space
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
